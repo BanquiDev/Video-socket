@@ -1,0 +1,30 @@
+1 Bajar el repositorio Video-sockets
+2 Abrir la consola en ese directorio e instalar:
+
+ejecutar comandos
+
+npm install
+--para instalar la carpeta node modules--
+
+npm install express --save
+--para instalar  express--
+
+npm install socket.io --save
+--para instalar  socket.io--
+
+npm install nodemon --save-dev
+--para instalar nodemon y no tener que cortar y relanzar el servidor.
+
+-------------------------------------------
+
+una vez hecho esto.
+
+1-ejecutar npm start en la consola.
+
+2-abrir en una pestaña en la url: localhost:6677, y abrir otra pestaña de incognito,
+u otro tab.
+
+3- hacer click en cualquier lado de ambas ventanas o tabs.
+
+4- hacer click en los botones de start/stop. El video se inicia y se para en ambas ventanas
+ 
